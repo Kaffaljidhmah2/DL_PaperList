@@ -35,4 +35,4 @@ With Recurrent Neural Networks</a>
 
 ---
 
-** Reference ** : <a href="http://pytorch.org/docs">http://pytorch.org/docs</a>
+**Reference** : <a href="http://pytorch.org/docs">http://pytorch.org/docs</a>
