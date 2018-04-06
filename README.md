@@ -1,6 +1,6 @@
 # Paper List : Deep Learning Modern Techniques
 
-*Preliminary draft. Not for wide circulation.*
+*Remains to be updated. Not for wide circulation.*
 
 ---
 
@@ -28,7 +28,7 @@
 
 <a href="https://arxiv.org/abs/1412.6980">Adam: A Method for Stochastic Optimization</a>
 
-<a href="https://arxiv.org/pdf/1308.0850v5.pdf">Generating Sequences
+<a href="https://arxiv.org/abs/1308.0850">Generating Sequences
 With Recurrent Neural Networks</a>
 
 <a href="https://arxiv.org/abs/1608.03983">SGDR: Stochastic Gradient Descent with Warm Restarts</a>
